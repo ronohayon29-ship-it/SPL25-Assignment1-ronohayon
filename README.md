@@ -58,3 +58,10 @@ make test
 ## Notes
 
 This project was implemented as part of an academic assignment in the **Systems Programming Laboratory course**.
+
+---
+
+## Authors
+
+- Ron Ohayon  
+- Liad Levi
